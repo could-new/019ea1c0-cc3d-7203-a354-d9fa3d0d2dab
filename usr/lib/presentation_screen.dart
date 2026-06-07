@@ -37,7 +37,7 @@ class _PresentationScreenState extends State<PresentationScreen> {
     return Scaffold(
       backgroundColor: Colors.grey.shade100,
       appBar: AppBar(
-        title: const Text('O\\'zbek Tilini Matematik Modellashtirish'),
+        title: const Text("O'zbek Tilini Matematik Modellashtirish"),
         backgroundColor: Theme.of(context).colorScheme.primary,
         foregroundColor: Colors.white,
         actions: [
