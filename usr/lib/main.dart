@@ -13,7 +13,7 @@ class PresentationApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'O\\'zbek Tilini Matematik Modellashtirish',
+      title: "O'zbek Tilini Matematik Modellashtirish",
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.blue.shade900),
